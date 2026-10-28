@@ -20,14 +20,14 @@ export default function Footer(){
         </div>
         <div>
           <h4>Madurai Office</h4>
-          <p>opposite Deen Fiber Net,<br /> Panangadi, Anaiyur,<br /> Madurai-625017, Tamil Nadu</p>
+          <p>SN Traders,<br /> SN Complex Kulamangalam main road,<br /> Panangadi <br/> Madurai-625017, Tamil Nadu</p>
           <p style={{marginTop:'12px'}}>Mon – Sat: 9:00 AM – 7:30 PM <br/>Sun : 9:00 AM - 1:00 PM</p>
         </div>
         <div>
           <h4>Direct Connect</h4>
           <ul>
             <li><a href="https://wa.me/917373661994">WhatsApp<br />+91 7373661994</a></li>
-            <li><a href="mailto:hello@snconstruction.example">Email<br />hello@snconstruction.example</a></li>
+            <li><a href="mailto:snconstructionmadurai@gmail.com">Email<br />snconstructionmadurai@gmail.com</a></li>
           </ul>
         </div>
       </div>
